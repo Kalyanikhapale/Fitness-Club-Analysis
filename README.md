@@ -15,16 +15,16 @@ This project is a detailed **Excel-based analysis** of PowerFit India’s gym me
 
 ## 🧠 Objectives & Tasks Completed
 
-### ✅📆 1. Membership Duration Calculation
+### 📆 1. Membership Duration Calculation
 - Calculated full active months for each member 
   
 
-### ✅🔗 2. Referral Impact Analysis
+### 🔗 2. Referral Impact Analysis
 
 * Created a `Referred` column to identify members referred by others.
 * Analyzed average monthly fee for referred vs. non-referred members using a Pivot Table.
 
-### ✅💰 3. Revenue Calculation & Breakdown
+### 💰 3. Revenue Calculation & Breakdown
 
 * Added `Total_Revenue` column:
 
@@ -34,14 +34,14 @@ This project is a detailed **Excel-based analysis** of PowerFit India’s gym me
   * City
   * Referral status
 
-### ✅🚩 4. Identify Low Engagement Members
+### 🚩 4. Identify Low Engagement Members
 
 * Applied conditional formatting to flag:
 
   * Members with `Attendance < 8`
   * AND `Membership Duration ≥ 6 months`
 
-### ✅📊  5. Segment Profitability Dashboard
+### 📊  5. Segment Profitability Dashboard
 
 * Built a dashboard using:
 
@@ -50,7 +50,7 @@ This project is a detailed **Excel-based analysis** of PowerFit India’s gym me
   * Interactive Slicers for `City`, `Gender`, `Membership_Type`, and `Referred`
   * Pivot Chart for visual insights
 
-### ✅👥 6. Gender & Age Distribution Analysis
+### 👥 6. Gender & Age Distribution Analysis
 
 * Added an `Age_Group` column:
 
