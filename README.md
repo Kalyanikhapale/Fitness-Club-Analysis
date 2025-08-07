@@ -8,9 +8,10 @@ This project is a detailed **Excel-based analysis** of PowerFit India’s gym me
 
 ## 📁 File Included
 
-- **PowerFit_Fitness_Club_Analysis.xlsx**  
+- **PowerFit_Fitness_Club_Analysis.xlsx**
+- ```
   → Main Excel file with formulas, Pivot Tables, conditional formatting, and dashboards.
-
+```
 ---
 
 ## 🧠 Objectives & Tasks Completed
